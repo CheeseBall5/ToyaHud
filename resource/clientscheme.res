@@ -3028,7 +3028,22 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		// CUSTOM fonts being used 
+		///////////////////////////////////////////////////////////
+
+		"AreaKilometer50Small"
+		{
+			"1"
+			{
+				"name"		"AreaKilo50"
+				"tall"		"15"
+				"weight"	"400"
+				"antialias" "1"
+			}
+		}
 	}
+	
 
 	//
 	//////////////////// BORDERS //////////////////////////////
@@ -5838,6 +5853,11 @@ Scheme
 			{
 				"range" "0x0000 0x007E"
 			}
+		}
+		"8"
+		{
+			"font"	"resource/fonts/AREA KILOMETER 50.ttf"
+			"name" "AreaKilo50"
 		}
 	}
 }
