@@ -3032,12 +3032,82 @@ Scheme
 		// CUSTOM fonts being used 
 		///////////////////////////////////////////////////////////
 
-		"AreaKilometer50Small"
+				"AreaKilometer5060"
 		{
 			"1"
 			{
 				"name"		"AreaKilo50"
-				"tall"		"15"
+				"tall"		"60"
+				"weight"	"400"
+				"antialias" "1"
+			}
+		}
+						"AreaKilometer5050"
+		{
+			"1"
+			{
+				"name"		"AreaKilo50"
+				"tall"		"50"
+				"weight"	"400"
+				"antialias" "1"
+			}
+		}
+						"AreaKilometer5040"
+		{
+			"1"
+			{
+				"name"		"AreaKilo50"
+				"tall"		"40"
+				"weight"	"400"
+				"antialias" "1"
+			}
+		}
+						"AreaKilometer5030"
+		{
+			"1"
+			{
+				"name"		"AreaKilo50"
+				"tall"		"30"
+				"weight"	"400"
+				"antialias" "1"
+			}
+		}
+		"AreaKilometer5024"
+		{
+			"1"
+			{
+				"name"		"AreaKilo50"
+				"tall"		"24"
+				"weight"	"400"
+				"antialias" "1"
+			}
+		}
+		"AreaKilometer5020"
+		{
+			"1"
+			{
+				"name"		"AreaKilo50"
+				"tall"		"20"
+				"weight"	"400"
+				"antialias" "1"
+			}
+		}
+		"AreaKilometer5016"
+		{
+			"1"
+			{
+				"name"		"AreaKilo50"
+				"tall"		"16"
+				"weight"	"400"
+				"antialias" "1"
+			}
+		}
+		"AreaKilometer5012"
+		{
+			"1"
+			{
+				"name"		"AreaKilo50"
+				"tall"		"12"
 				"weight"	"400"
 				"antialias" "1"
 			}
